@@ -1,0 +1,13 @@
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\bin\Debug\netcoreapp3.1\Aula11.exe
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\bin\Debug\netcoreapp3.1\Aula11.deps.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\bin\Debug\netcoreapp3.1\Aula11.runtimeconfig.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\bin\Debug\netcoreapp3.1\Aula11.runtimeconfig.dev.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\bin\Debug\netcoreapp3.1\Aula11.dll
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\bin\Debug\netcoreapp3.1\Aula11.pdb
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\obj\Debug\netcoreapp3.1\Aula11.csprojAssemblyReference.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\obj\Debug\netcoreapp3.1\Aula11.csproj.CoreCompileInputs.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\obj\Debug\netcoreapp3.1\Aula11.AssemblyInfoInputs.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\obj\Debug\netcoreapp3.1\Aula11.AssemblyInfo.cs
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\obj\Debug\netcoreapp3.1\Aula11.dll
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\obj\Debug\netcoreapp3.1\Aula11.pdb
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula11\obj\Debug\netcoreapp3.1\Aula11.genruntimeconfig.cache
